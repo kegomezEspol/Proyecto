@@ -1,1 +1,13 @@
-{"kevin": {"contrase\u00f1a": "123", "tareas": []}}
+{
+    "kevin": {
+        "contrase\u00f1a": "123",
+        "tareas": [
+            {
+                "titulo": "Cumplea\u00f1os Abbie",
+                "descripcion": "El cumplea\u00f1os de mi hija",
+                "fecha_vencimiento": "01-03-2026",
+                "completada": false
+            }
+        ]
+    }
+}
